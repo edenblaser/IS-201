@@ -1,0 +1,21 @@
+.center-text {
+    text-align: center;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue
+}
+
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue
+}
+
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cadetblue
+}
+
+.tableaubg{
+    background-image: url('../images/family.JPG') 
+}
